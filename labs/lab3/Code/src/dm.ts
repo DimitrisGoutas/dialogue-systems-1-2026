@@ -29,8 +29,9 @@ interface GrammarEntry {
 
 const grammar: { [index: string]: GrammarEntry } = {
   vlad: { person: "Vladislav Maraev" },
-  aya: { person: "Nayat Astaiza Soriano" },
-  victoria: { person: "Victoria Daniilidou" },
+  bora: { person: "Bora Kara" },
+  tal: { person: "Talha Bedir" },
+  tom: { person: "Tom Södahl Bladsjö" },
   monday: { day: "Monday" },
   tuesday: { day: "Tuesday" },
   "10": { time: "10:00" },
